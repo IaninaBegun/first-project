@@ -1,0 +1,226 @@
+.page {
+}
+.header {
+
+		// .header__title
+
+		&__title {
+		}
+
+		// .header__subtitle
+
+		&__subtitle {
+		}
+
+		// .header__link
+
+		&__link {
+		}
+
+		// .header__main-illustration
+
+		&__main-illustration {
+		}
+
+		// .header__square-pic
+
+		&__square-pic {
+		}
+}
+.logo {
+
+		// .logo_place
+
+		&_place {
+		}
+
+		// .logo_place
+
+		&_place {
+		}
+}
+.content {
+}
+.description {
+}
+.two-columns {
+
+		// .two-columns__brief
+
+		&__brief {
+		}
+
+		// .two-columns__main-text
+
+		&__main-text {
+		}
+
+		// .two-columns__paragraph
+
+		&__paragraph {
+		}
+
+		// .two-columns__span-accent
+
+		&__span-accent {
+		}
+}
+.digits {
+}
+.section-title {
+
+		// .section-title_theme
+
+		&_theme {
+		}
+
+		// .section-title_theme
+
+		&_theme {
+		}
+}
+.section-subtitle {
+
+		// .section-subtitle_theme
+
+		&_theme {
+		}
+
+		// .section-subtitle_theme
+
+		&_theme {
+		}
+}
+.table {
+
+		// .table_theme
+
+		&_theme {
+		}
+
+		// .table_theme
+
+		&_theme {
+		}
+
+		// .table__cell
+
+		&__cell {
+
+			// .table__cell_theme
+
+			&_theme {
+			}
+
+			// .table__cell_theme
+
+			&_theme {
+			}
+		}
+
+		// .table__heading
+
+		&__heading {
+
+			// .table__heading_theme
+
+			&_theme {
+			}
+
+			// .table__heading_theme
+
+			&_theme {
+			}
+		}
+
+		// .table__text
+
+		&__text {
+
+			// .table__text_theme
+
+			&_theme {
+			}
+
+			// .table__text_theme
+
+			&_theme {
+			}
+		}
+}
+.feynman {
+
+		// .feynman__title
+
+		&__title {
+		}
+
+		// .feynman__subtitle
+
+		&__subtitle {
+		}
+
+		// .feynman__link
+
+		&__link {
+		}
+
+		// .feynman__image
+
+		&__image {
+		}
+}
+.kaufman {
+
+		// .kaufman__triangle
+
+		&__triangle {
+		}
+}
+.footer {
+
+		// .footer__columns
+
+		&__columns {
+		}
+
+		// .footer__column
+
+		&__column {
+
+			// .footer__column_content
+
+			&_content {
+			}
+
+			// .footer__column_content
+
+			&_content {
+			}
+
+			// .footer__column_content
+
+			&_content {
+			}
+		}
+
+		// .footer__author
+
+		&__author {
+		}
+
+		// .footer__column-heading
+
+		&__column-heading {
+		}
+
+		// .footer__column-links
+
+		&__column-links {
+		}
+
+		// .footer__social-icon
+
+		&__social-icon {
+		}
+}
